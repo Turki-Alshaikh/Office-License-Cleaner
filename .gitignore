@@ -1,0 +1,27 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# VBS files (since the script generates temporary .vbs files, this prevents accidental commits if run locally)
+*.vbs
+
+# Code Editors / IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Executables (in case you convert the .bat to .exe in the future using tools)
+*.exe
+*.com
