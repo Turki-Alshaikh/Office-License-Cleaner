@@ -1,5 +1,4 @@
 # Office-License-Cleaner
-#  Office-Cleaner
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)]()
